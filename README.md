@@ -1,0 +1,1 @@
+Hi! This is my area calculator for 2D shapes. There are options for 6 different shapes, and I hope you enjoy. I hand wrote this code, and it's my first real loop. Just follow the prompts to use. Thank you!
